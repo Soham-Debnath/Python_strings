@@ -1,0 +1,1 @@
+# This code shows String Functions in Python.
